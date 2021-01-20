@@ -12,6 +12,7 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
+
 # Inauguration Palette 
 
 An R palette insipred by the beautiful colors of the 2021 inauguration
