@@ -21,7 +21,7 @@ An R palette insipred by the beautiful colors of the 2021 inauguration
 
 ## Installation
 
-You can install the released version of inauguration from GitHub with:
+You can install the released version of inauguration from GitHub with
 
 ```{r eval = FALSE}
 # install.packages("devtools")
