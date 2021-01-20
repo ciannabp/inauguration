@@ -3,8 +3,7 @@
 
 # Inauguration Palette
 
-![](amy_kamala_jill.jpg) An R palette insipred by the beautiful colors
-of the 2021 inauguration
+An R palette insipred by the beautiful colors of the 2021 inauguration
 
 ## Installation
 
@@ -92,6 +91,8 @@ inauguration("inauguration_2021")
 <img src="man/figures/README-unnamed-chunk-3-1.png" width="100%" />
 
 If you want a specific number of colors, you can also do that.
+
+![](kamala_jill_amy.png)
 
 ``` r
 inauguration("inauguration_2021", 3)
