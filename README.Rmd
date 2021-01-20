@@ -45,6 +45,7 @@ inauguration("inauguration_2021")
 
 
 ![](kamala_jill_amy.png)
+
 If you want a specific number of colors, you can also do that.
 
 ```{r}
