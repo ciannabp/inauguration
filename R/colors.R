@@ -4,7 +4,7 @@
 #'
 #' @export
 inauguration_palettes <- list(
-  inauguration_2021 = c("#5445b1", "#749dae", "#cd3341", "#5c1a33", "#f7dc6a", "#f3c483")
+  inauguration_2021 = c("#5445b1", "#749dae", "#f3c483", "#5c1a33", "#cd3341","#f7dc6a")
 )
 
 #' Inauguration palette generator
