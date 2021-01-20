@@ -11,6 +11,6 @@ An object of class \code{list} of length 1.
 inauguration_palettes
 }
 \description{
-Use \code{\link{inauguration_palette}} to construct palettes of desired length.
+Use \code{\link{inauguration}} to construct palettes of desired length.
 }
 \keyword{datasets}
