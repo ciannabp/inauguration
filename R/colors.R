@@ -1,3 +1,6 @@
+
+
+
 #' Complete list of palettes
 #'
 #' Use \code{\link{inauguration}} to construct palettes of desired length.
@@ -57,7 +60,7 @@ print.palette <- function(x, ...) {
         ylab = "", xaxt = "n", yaxt = "n", bty = "n")
 
   rect(0, 0.9, n + 1, 1.1, col = rgb(1, 1, 1, 0.8), border = NA)
-  text((n + 1) / 2, 1, labels = attr(x, "name"), cex = 1, col = "#32373D")
+  text((n + 1) / 2, 1, labels = attr(x, "name"), cex = 1, family = "Lato", col = "#32373D")
 }
 
 

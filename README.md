@@ -1,4 +1,6 @@
 
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
 # Inauguration Palette
