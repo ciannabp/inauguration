@@ -1,0 +1,11 @@
+Package: inaugurationpalette
+Title: Inauguration color palette for R
+Version: 0.0.0.9000
+Author: Cianna Bedford-Petersen
+Maintainer: Cianna Bedford-Petersen <ciannabedford@gmail.com>
+Description: R color palette inspired by the outfits of the inauguration
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
