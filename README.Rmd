@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 
 An R palette insipred by the beautiful colors of the 2021 inauguration
 
+![](collage.png)
+
 ## Installation
 
 You can install the released version of inauguration from GitHub with:
@@ -40,9 +42,10 @@ You can call the palette in just one command
 inauguration("inauguration_2021")
 ```
 
-If you want a specific number of colors, you can also do that.
+
 
 ![](kamala_jill_amy.png)
+If you want a specific number of colors, you can also do that.
 
 ```{r}
 inauguration("inauguration_2021", 3)
