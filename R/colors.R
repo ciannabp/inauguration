@@ -22,8 +22,8 @@ inauguration_palettes <- list(
 #' @export
 #' @keywords colors
 #' @examples
-#' inauguration_2021_palette("inauguration_2021")
-#' inauguration_2021("inauguration_2021", 3)
+#' inauguration("inauguration_2021")
+#' inauguration("inauguration_2021", 3)
 
 inauguration <- function(name, n) {
 
