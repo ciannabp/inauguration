@@ -1,6 +1,6 @@
 #' Complete list of palettes
 #'
-#' Use \code{\link{inauguration_palette}} to construct palettes of desired length.
+#' Use \code{\link{inauguration}} to construct palettes of desired length.
 #'
 #' @export
 inauguration_palettes <- list(
@@ -25,7 +25,7 @@ inauguration_palettes <- list(
 #' inauguration_2021_palette("inauguration_2021")
 #' inauguration_2021("inauguration_2021", 3)
 
-inauguration_palette <- function(name, n) {
+inauguration <- function(name, n) {
 
 
   pal <- inauguration_palettes[[name]]
