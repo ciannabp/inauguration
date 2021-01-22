@@ -8,8 +8,10 @@
 #' @export
 inauguration_palettes <- list(
   inauguration_2021 = c("#5445b1", "#749dae", "#f3c483", "#5c1a33", "#cd3341","#f7dc6a"),
-  inauguration_2021_bernie = c("#5445b1", "#749dae", "#f3c483", "#5c1a33", "#6B4B3B", "#cd3341","#f7dc6a")
+  inauguration_2021_bernie = c("#5445b1","#876D57","#749dae","#f3c483","#5c1a33","#cd3341","#f7dc6a"),
+  bernie_mittens = c("#372421","#50506D","#855F4C","#465952","#B7A79B")
 )
+
 
 #' Inauguration palette generator
 #'
@@ -20,7 +22,7 @@ inauguration_palettes <- list(
 #'   schemes are derived from \href{http://poppygall.com/blog/2011/07/25/color-inspiration-national-park-wpa-posters/}{Color Inspiration – National Park WPA Posters}.
 #'   If omitted, uses all colours.
 #' @param name Name of desired palette. Choices are:
-#'   \code{inauguration_2021}, \code{inauguration_2021_bernie}
+#'   \code{inauguration_2021}, \code{inauguration_2021_bernie}, \code{bernie_mittens}
 #'   @importFrom graphics rgb rect par image text
 #' @return A vector of colours.
 #' @export

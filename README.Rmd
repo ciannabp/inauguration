@@ -53,4 +53,16 @@ If you want a specific number of colors, you can also do that.
 inauguration("inauguration_2021", 3)
 ```
 
+...and for the Bernie fans out there
 
+![](bernie1.png)
+
+```{r results = 'show'}
+inauguration("inauguration_2021_bernie")
+```
+ 
+![](berniemittens.jpg)
+
+```{r results = 'show'}
+inauguration("bernie_mittens")
+```

@@ -22,7 +22,7 @@ devtools::install_github("ciannabp/inauguration")
 library(inauguration)
 
 names(inauguration_palettes)
-#> [1] "inauguration_2021"
+#> [1] "inauguration_2021"        "inauguration_2021_bernie"
 ```
 
 You can call the palette in just one command
@@ -42,3 +42,13 @@ inauguration("inauguration_2021", 3)
 ```
 
 <img src="man/figures/README-unnamed-chunk-4-1.png" width="100%" />
+
+…and for the Bernie fans out there
+
+![](bernie1.png)
+
+``` r
+inauguration("inauguration_2021_bernie")
+```
+
+<img src="man/figures/README-unnamed-chunk-5-1.png" width="100%" />
