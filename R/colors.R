@@ -20,7 +20,7 @@ inauguration_palettes <- list(
 #'   schemes are derived from \href{http://poppygall.com/blog/2011/07/25/color-inspiration-national-park-wpa-posters/}{Color Inspiration – National Park WPA Posters}.
 #'   If omitted, uses all colours.
 #' @param name Name of desired palette. Choices are:
-#'   \code{inauguration_2021}
+#'   \code{inauguration_2021}, \code{inauguration_2021_bernie}
 #'   @importFrom graphics rgb rect par image text
 #' @return A vector of colours.
 #' @export
