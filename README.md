@@ -23,6 +23,7 @@ library(inauguration)
 
 names(inauguration_palettes)
 #> [1] "inauguration_2021"        "inauguration_2021_bernie"
+#> [3] "bernie_mittens"
 ```
 
 You can call the palette in just one command
@@ -52,3 +53,11 @@ inauguration("inauguration_2021_bernie")
 ```
 
 <img src="man/figures/README-unnamed-chunk-5-1.png" width="100%" />
+
+![](berniemittens.jpg)
+
+``` r
+inauguration("bernie_mittens")
+```
+
+<img src="man/figures/README-unnamed-chunk-6-1.png" width="100%" />
