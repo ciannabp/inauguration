@@ -10,7 +10,7 @@ inauguration_palettes <- list(
   inauguration_2021 = c("#5445b1", "#749dae", "#f3c483", "#5c1a33", "#cd3341","#f7dc6a"),
   inauguration_2021_bernie = c("#5445b1","#876D57","#749dae","#f3c483","#5c1a33","#cd3341","#f7dc6a"),
   bernie_mittens = c("#372421","#50506D","#855F4C","#465952","#B7A79B"),
-  inauguration_extended = c("#5445b1", "#749dae", "#f3c483", "#5c1a33", "#cd3341","#f7dc6a", "4DA896", "#E07882")
+  inauguration_extended = c("#5445b1", "#749dae", "#f3c483", "#5c1a33", "#cd3341","#f7dc6a", "#4DA896", "#E07882")
 )
 
 
