@@ -13,7 +13,7 @@ You can install the released version of inauguration from GitHub with
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("ciannabp/inauguration")
+devtools::install_github("ciannabp/inauguration", ref="main")
 ```
 
 ## Usage
